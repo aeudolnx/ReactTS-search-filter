@@ -1,0 +1,12 @@
+.Posts {
+    color: white;
+    border: solid 1px white;
+    margin: 1rem;
+    background-color: #302c2c;
+    padding-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px));
+}
+
+
+
